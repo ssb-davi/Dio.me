@@ -1,0 +1,9 @@
+Aula 01
+Apresentação
+
+Requisitos
+- Distribuição (Ubuntu, Mint, etc)
+- Conhecimento dos comandos básicos do terminal Linux
+- Conhecimento em lógica de programação
+- Conhecimento báscio de linguagem de programação
+- Programação Orientada a Objetos

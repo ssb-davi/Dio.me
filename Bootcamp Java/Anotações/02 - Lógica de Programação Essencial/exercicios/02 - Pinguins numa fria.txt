@@ -1,0 +1,26 @@
+Algoritmo do jogo: Pinguins numa fria
+https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+Inicio do jogo
+filhote azul sobe no gelo
+pai azul sobe no gelo
+	gelo atravessa
+pai azul desce do gelo
+	gelo atravessa
+filhote verde sobe no gelo
+	gelo atravessa
+filhote azul desce do gelo
+	gelo atravessa
+pai verde sobe no gelo
+	gelo atravessa
+pai verde desce do gelo
+	gelo atravessa
+filhote vermelho sobe no gelo
+	gelo atravessa
+filhote verde desce do gelo
+	gelo atravessa
+pai vermelho sobe no gelo
+	gelo atravessa
+pai vermelho desce do gelo
+filhote vermelho desce do gelo
+Fim do jogo

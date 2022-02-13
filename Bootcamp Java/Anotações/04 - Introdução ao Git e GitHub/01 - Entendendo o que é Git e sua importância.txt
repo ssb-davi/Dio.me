@@ -1,0 +1,22 @@
+Aula 01
+Entendendo o que é Git e sua importância
+
+Explicação sobre a criação de um artigo para um jornal.
+* acontecem várias correções no rascunho;
+* revisões, novas versões;
+
+GIT - Software para versionamento de código
+Criado em 2005 por Linus Torvalds
+--> Não é uma uma invenção do Linus é o resultado do desgosto
+dele ao utilizar as ferramentas disponíveis.
+
+* GitHub é diferente, é um repostório de armazenamento
+
+"Softwares são construídos de maneira colaborativa"
+
+Benefícios de aprender sobre GIT
+1 - Controle de Versão
+2 - Armazenamento em nuvem
+3 - Trabalho em equipe
+4 - Melhorar seu código
+5 - Reconhecimento

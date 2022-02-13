@@ -1,0 +1,41 @@
+Aula 02
+O que são algoritmos e pseudocódigos
+
+- Algortimo
+uma sequencia de passos para resolver um problema
+
+Link
+https://studio.code.org/s/mc/stage/1/puzzle/1
+
+- Pseudocódigo
+forma genérica de escrever um algoritmo, utilizando uma linguagem simples
+
+Link
+https://www.proprofs.com/games/wolf-sheep-and-cabbage/
+
+Algoritmo do Jogo Lobo, Ovelha e o Repolho
+
+Inicio do jogo
+ovelha sobe no barco
+	barco atravessa
+ovelha desce do barco
+	barco atravessa 
+lobo sobe no barco
+	barco atravessa
+lobo desce do barco
+ovelha sobe no barco
+	barco atravessa
+ovelha desce do barco
+repolho sobe no barco
+	barco atravessa
+repolho desce do barco
+	barco atravessa
+ovelha sobe no barco
+	barco atravessa
+ovelha desce do barco
+Fim do jogo
+
+Exercício Final
+1 - crie um algoritmo do seu dia
+2 - resolver os desafios do site
+3 - escrever pseudocódigo do jogo família pinguim

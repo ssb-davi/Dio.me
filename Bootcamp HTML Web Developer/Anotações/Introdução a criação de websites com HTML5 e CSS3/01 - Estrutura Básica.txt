@@ -1,0 +1,33 @@
+Aula 01
+Estrutura Básica
+
+1. História e estrutura básica
+2. Semântica
+3. Principais elementos HTML
+
+Requisitos
+- Editor de texto (Vs Code)
+- Navegador de Internet (Chrome)
+
+criada em 1991
+tim berners-lee
+5 versões
+última em 2014
+
+* o que é um elemento html?
+
+* Estrutura básica
+<!DOCTYPE html> - não é um elemento, apenas diz ao navegador o que você está escrevendo
+<html>
+ <head> - dentro do head temos meta informações necessárias para o navegador
+   <meta>
+   <title></title>
+ </head>
+ <body>
+ </body>	 
+<html>
+
+
+
+
+

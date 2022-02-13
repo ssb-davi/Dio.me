@@ -1,0 +1,30 @@
+Aula 05
+Objetos Internos do Git
+
+** Blobs
+O arquivo tem um SHA
+o bloob contém os metadados (informações sobre o arquivo? tamanho,tipo)
+--> o arquivo está dentro do bloob??
+- o bloob só guarda o SHA1 do arquivo
+
+** Trees
+- aponta para um bloob com seu SHA1
+- a árvore guarda o nome do arquivo
+- a árvore tem o seu SHA1 próprio >> mudando algo em um dos arquivos
+que está no blob, muda o sha1 do blob, e por consequencia muda o sha1 da tree
+
+** Commit
+- aponta para uma arvore
+- aponta para um commit parente
+- aponta o autor
+- aponta uma mensagem (descrição do commit, explicação das alterações)
+- timestamp (carimbo de tempo data/hora, linha do tempo das alterações)
+- possue um SHA1 proprio >> alterou o arquivo, altera o sha1 da blob, altera o sha1
+da tree, altera o sha1 do commit.
+- Isso garante que não houveram mudanças. A menor mudança feita
+altera todos os SHA1.
+
+
+--- Comandos Novos ---
+* git hash-object --stdin
+* echo -e 'blob 9\0conteudo' | openssl sha1

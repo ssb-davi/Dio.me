@@ -1,0 +1,16 @@
+Aula 04
+Instalando a JVM
+
+- Instalando curl [??? onde instalou isso]
+sudo apt install curl
+
+- Instalando a JVM
+JABBA version
+https://github.com/shyiko/jabba
+*** Erro
+
+- Baixei a Zulu
+https://www.azul.com/downloads/?version=java-17-lts&architecture=x86-64-bit
+
+Tutorial
+https://youtu.be/laC0fiI-IOM

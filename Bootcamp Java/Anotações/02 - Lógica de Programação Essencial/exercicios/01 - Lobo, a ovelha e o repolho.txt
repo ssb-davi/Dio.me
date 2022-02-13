@@ -1,0 +1,22 @@
+Algoritmo do jogo: O Lobo, a ovelha e o repolho
+https://www.proprofs.com/games/wolf-sheep-and-cabbage/
+
+Inicio do jogo
+ovelha sobe no barco
+	barco atravessa
+ovelha desce do barco
+	barco atravessa 
+lobo sobe no barco
+	barco atravessa
+lobo desce do barco
+ovelha sobe no barco
+	barco atravessa
+ovelha desce do barco
+repolho sobe no barco
+	barco atravessa
+repolho desce do barco
+	barco atravessa
+ovelha sobe no barco
+	barco atravessa
+ovelha desce do barco
+Fim do jogo

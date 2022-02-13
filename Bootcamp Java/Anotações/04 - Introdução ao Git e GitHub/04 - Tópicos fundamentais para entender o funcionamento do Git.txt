@@ -1,0 +1,21 @@
+Aula 04
+Tópicos fundamentais para entender o funcionamento do Git
+
+
+- SHA1 (Secure Hash Algorithm)
+Projetado pela NSA
+conjunto de caracteres identificador de 40 dígitos
+é uma forma curta de representar um arquivo
+
+
+- Objetos Fundamentais
+
+sistema distribuido
+segurança
+
+--- Comandos ---
+* Git Bash - unifica os comandos para usuarios do Windows e do Linux
+* echo
+* openssl sha1 [arquivo] - mostrar o SHA1
+
+

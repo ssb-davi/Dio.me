@@ -1,0 +1,31 @@
+Aula 02
+Comandos básicos para um bom desempenho no terminal
+
+GIT é um CLI [diferente de GUI]
+* Command Line Interface
+O usuário interage através de linha de comando
+
+Objetivos da aula
+- Mudar de pastas
+- Listar as pastas
+- Criar pastas/arquivos
+- Deletar pastas/arquivos
+
+Comandos Windows
+- cd - navegar entre as pastas [cd ..]voltar
+- dir - listar todas as pastas existentes no local
+- mkdir - criar pastas
+
+- del/rmdir
+del - apaga arquivos
+rmdir - apaga a pasta [flags /S /Q]
+
+
+- cls ou ctrl+l [limpar a tela]
+- tab [autocompletar]
+- echo hello > hello.txt [criar arquivo hello txt]
+
+* flags: modificam os comandos
+
+
+

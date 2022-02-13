@@ -1,0 +1,17 @@
+Aula 02
+Introdução ao ecossistema Java
+
+1. Conhecendo o Java
+linguagem de programação e plataforma computacional lançada pela
+primeira pela Sun Microsystems em 1995
+
+- Características
+a) compilada
+b) Interpretada
+c) fortemente tipada
+d) linguagem de alto nível
+e) executada em máquikna virtual - JVM [Java Virtual Machine]
+
+
+
+

@@ -1,0 +1,41 @@
+Aula 03
+Entendendo a JVM
+
+Java Virtual Machine
+máquina virtual responsavel pela traducao dos bytecodes oriundos
+do compilador Javac(Java Compiler) em código de máquina de cada
+sistema operacional.
+
+- Características
+a) Execução de pilhas
+b) Gerenciamento de memória
+c) Gerenciamento de threads [o que é threads?]
+d) Otimização de código (Compilação JIT - Just in Time)
+e) Garbage Collector (GC) - faz a limpeza
+
+- Diferença Java para outras linguagens compiladas
+enquanto nas outras linguagens é necessário compilar para cada sistema 
+operacional específico, na linguagem Java compila apenas uma vez, e é útil
+para todos os sistemas, a JVM faz a interpretação de acordo com o que está
+sendo utilizado.
+
+- Quais as diferenças entre JRE e JDK
+a) JRE (Java runtime Environment) - resposavel por ecxecutar os programas
+b) JDK (Java Development Kit) - utilitários que permite o desenvolvimento
+de programas em Java. Já possui a JVM para executar os programas.[já contém o JRE]
+
+- Quais os tipos de plataformas Java
+a) Java SE (Java Standard Edition) - contem as especificações do Java e pode 
+ser implementado por diversas empresas
+b) Java EE (Java Enterprise Edition) - contém todas as especificação do Java SE
+e um números de utilitários que executam em servidores. [renomeada para Jakarta EE]
+c)Java ME (Java Micro Edition) - contém especificação para o desenvolvimento de
+programas para dispositivos pequenos
+
+- Quais as implementações Java Se
+OpenJDK - vai ser utilizada
+Oracle JDK
+AdoptOpenJDK
+Amazon Corretto
+GraalVM CE
+Azul Zulu

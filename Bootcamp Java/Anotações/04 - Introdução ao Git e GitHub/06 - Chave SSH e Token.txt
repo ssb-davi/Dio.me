@@ -1,0 +1,52 @@
+Aula 06
+Chave SSH e Token
+
+** Chave SSH
+- reconhece a maquina como segura
+- possibilita o envio de arquivos direto para o github
+
+Passo a Passo no Git Bash
+1 - entrar o comando:
+ssh-keygen -t ed25519 -C [email]
+*** OBS: o local onde a chave fica salvo é
+/c/Users/Davi Batista/.ssh/id_ed25519
+
+2 - entrar a senha
+
+3 - acessar a pasta da chave criada
+cd c/Users/Davi Batista/.ssh/
+
+4 - listar a pasta [ls]
+*** o arquivo .pub é a chave pública
+*** a chave que coloca no github é a chave pública
+
+5 - exibir o conteudo da chave, entrar o comando
+cat id_ed25519.pub
+
+6 - copiar o texto da chave e colar no github no campo key,
+com o titulo da maquina
+
+7 - inicializar o agente, entrar o comando
+eval $(ssh-agent -s)
+
+8 - passar a chave para o agente, entrar o comando
+ssh-add id_ed25519
+*** passar a chave privada.
+
+9 - entrar a senha.
+
+
+-------------------------------------------------------
+comandos novos
+git clone [colar link do repositorio, ou chave ssh]
+-------------------------------------------------------
+
+Token de acesso pessoal
+- deve ser guardado em local seguro
+- o github solicita o token quando for fazer os commits
+
+
+
+
+
+
