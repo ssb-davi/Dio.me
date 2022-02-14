@@ -1,0 +1,38 @@
+Aula 
+Introdução e conceitos básicos do CSS3
+
+id x classe
+
+id - só pode ser usado uma vez na página
+
+no css
+id    --> #header
+class --> .header
+
+box model
+margin - espaçamento entre elementos
+  border - alterar aparencia [largura,cor,estilo,radius]
+    paddding - espaçamento entre a borda e o conteudo
+      content - o que o box representa
+
+* Estilizando textos
+font-family
+font-size
+font-style
+font-weight [normal,bold]
+text-transform [uppercase,lowercase,capitalize]
+text-decoration [underline,overline,line-through]
+
+obs: web safe fonts
+
+* Estilizando listas
+list-style-type [square,upper-roman, codigo emoji]
+list-style-image: url("");
+
+* Dimensão e Alinhamento
+width -- largura
+Height - altura
+max-width -- refere-se a largura máxima possível
+max-height - refere-se a altura máxima possível
+margin
+text align [left,right,center,justify]
