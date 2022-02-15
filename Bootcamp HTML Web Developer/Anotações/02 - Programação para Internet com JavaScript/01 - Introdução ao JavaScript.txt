@@ -1,1 +1,40 @@
 Aula 01
+Introdução ao JavaScript
+
+Objetivos da Aula:
+1. Entender como funciona o JavaScript
+2. Aprender a programar utilizando JavaScript
+3. Desenvolver páginas utilizando JavaScripy
+
+Requisitos Básicos
+* Windows, Linux ou OSX
+* Editor de texto
+* Conhecer algoritmos
+* GitHub
+* HTML5
+
+JavaScript
+- Linguagem de script (execução em tempo real) e multiplataforma
+- Client Side - é executado do lado do cliente (usuário)
+- Interage com elementos de uma página HTML
+- Usado em desenvolvimento de páginas e também de aplicativos mobile híbridos
+
+DOM - Document Object Model
+Documento gerado pelo navegador quando carrega a página, possibilita que o
+JavaScript altera todos os elementos do HTML, e os atributos e estilos de CSS
+de uma página.
+
+Condicionais, laço de repetição e Date
+var idade = prompt("") [comando prompt]
+if (){}
+while
+for
+
+var d = new date();
+alert (d.getMonth()+1)
+
+
+
+
+
+
