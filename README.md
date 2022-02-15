@@ -12,8 +12,33 @@ grid-template-columns
 grid-template-rows
 
 https://flexboxfroggy.com/
-#### justify-content  
-#### align-items  
-#### flex-direction  
-  row / row-reverse  
-  column / column-reverse
+
+#### justify-content
+  + flex-start / flex-end
+  + center
+  + space-around / space-between / space-evenly
+
+#### align-items | align-self
+  + flex-start / flex-end
+  + center
+  + baseline
+  + stretch
+
+#### flex-direction
+  + row / row-reverse  
+  + column / column-reverse
+
+#### flex-wrap
+  + nowrap
+  + wrap
+  + wrap-reverse
+
+#### flex flow
+  + flex-direction + flex-wrap  
+  flex-flow: column wrap;
+  
+#### align-content
+  + flex-start / flex-end
+  + center
+  + space-around / space-between
+  + stretch
